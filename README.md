@@ -1,2 +1,3 @@
-# BilibiliMemeAtlas-admission-20261106
-Private synthetic acceptance for BilibiliMemeAtlas branch admission.
+# Branch admission acceptance
+
+Synthetic fixtures and isolated branch admission workflows.

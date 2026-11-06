@@ -1,4 +1,4 @@
 {
-  "quality": false,
-  "case": "quality-rejection"
+  "quality": true,
+  "case": "final-positive"
 }

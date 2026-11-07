@@ -18,3 +18,5 @@ jobs:
         run: >-
           node -e "const f=require('./ci-fixture.json');
           if(f.quality!==true) process.exitCode=1;"
+
+# Synthetic workflow permission fixture for 913816f.

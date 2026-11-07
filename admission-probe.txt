@@ -1,1 +1,1 @@
-synthetic input for admission candidate ee4514c
+synthetic shared-head transition for ee4514c
